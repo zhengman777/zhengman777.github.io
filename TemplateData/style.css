@@ -1,7 +1,8 @@
 body {
   background-image: url("webpage doc.png"), url("webpage woman.png");
-  background-position: 0% 0%, 90% 0%;
+  background-position: bottom left, 90% 0%;
   background-repeat: no-repeat, no-repeat;
+  background-attachment: fixed, fixed;
   background-color: #a6d5ff;
 }
 
