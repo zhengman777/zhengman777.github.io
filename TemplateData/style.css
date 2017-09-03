@@ -1,6 +1,6 @@
 body {
   background-image: url("webpage doc.png"), url("webpage woman.png");
-  background-position: 0% 100%, 10% 90%;
+  background-position: 0% 10%, 10% 90%;
   background-repeat: no-repeat, no-repeat;
   background-color: #a6d5ff;
 }
