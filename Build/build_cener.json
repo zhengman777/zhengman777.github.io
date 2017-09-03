@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "build_cener.data.unityweb",
+"asmCodeUrl": "build_cener.asm.code.unityweb",
+"asmMemoryUrl": "build_cener.asm.memory.unityweb",
+"asmFrameworkUrl": "build_cener.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
